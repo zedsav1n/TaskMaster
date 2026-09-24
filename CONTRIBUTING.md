@@ -8,7 +8,7 @@
 1. Сделайте форк проекта на GitHub.
 2. Скачайте свою копию проекта:
    ```bash
-   git clone https://github.com/your-username/taskmaster.git
+   git clone https://github.com/zedsav1n/taskmaster.git
    ```
 3. Перейдите в папку проекта:
    ```bash
