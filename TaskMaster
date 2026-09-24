@@ -9,7 +9,7 @@ TaskMaster — простое приложение для создания и о
 
 1. Скачайте проект с GitHub:
    ```bash
-   git clone https://github.com/your-username/taskmaster.git
+   git clone https://github.com/zedsav1n/taskmaster.git
    ```
 2. Перейдите в папку проекта:
    ```bash
